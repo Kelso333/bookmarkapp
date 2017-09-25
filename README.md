@@ -2,7 +2,7 @@
 
 This app will help users bookmark sites.
 
-Technologies used:
-HTML 
-JavaScript
+Technologies used:<br>
+HTML<br> 
+JavaScript<br>
 Bootstrap
