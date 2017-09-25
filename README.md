@@ -1,6 +1,6 @@
 # bookmarkapp
 
-This app will help users bookmark sites.
+This app helps users bookmark sites.
 
 Technologies used:<br>
 HTML<br> 
